@@ -5,7 +5,7 @@
 #include "Condition.h"
 #include "Thread.h"
 #include <stdio.h>
-#include <vector>
+#include <Type.h>
 SUNNY_BEGIN
 using std::string;
 class ThreadPool : sunny::Nocopyable

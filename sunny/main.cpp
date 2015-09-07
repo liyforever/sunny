@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <memory>
 using namespace std;
 
 int main()
@@ -7,5 +7,4 @@ int main()
   cout << "Hello World!" << endl;
   return 0;
 }
-enum RecursionMode { NonRecursive, Recursive };
-explicit QMutex(RecursionMode mode = NonRecursive);
+

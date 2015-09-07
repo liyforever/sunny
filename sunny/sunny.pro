@@ -13,5 +13,6 @@ HEADERS += \
     Condition.h \
     Socket.h \
     LogStream.h \
-    ThreadPool.h
+    ThreadPool.h \
+    Type.h
 
